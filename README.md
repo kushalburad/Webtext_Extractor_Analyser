@@ -12,7 +12,7 @@ Calculation of average linguistic metrics across all 100 pages
 Generation of a summary CSV file for an overview of linguistic characteristics
 Usage
 
-Provide an HTTP link as input.
+Provide an HTTP link as input in the script.
 Run the script to obtain detailed linguistic analysis and CSV outputs.
 Explore the nuances of language across a diverse set of web pages effortlessly with the Web Text Analyzer.
 
